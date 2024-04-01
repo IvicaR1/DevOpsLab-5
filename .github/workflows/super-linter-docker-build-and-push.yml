@@ -42,4 +42,4 @@ jobs:
         uses: docker/build-push-action@v5
         with:
           push: true
-          tags: themaster159/devops-demo-01:latest
+          tags: themaster159/cicd-demo:latest
